@@ -454,6 +454,7 @@ of the testing and deployment process.
 - [Slate](https://github.com/tripit/slate) - Beautiful static documentation for your API.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
 - [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
+- [Warewolf](https://warewolf.io/) - Create RESTful APIs using a very simple implimentation Microsoft Workflow Foundation.
 
 ## Standards / Recommendations
 
