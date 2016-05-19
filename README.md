@@ -80,6 +80,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [Spring Cloud Netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Provides Netflix OSS integrations for Spring Boot apps through autoconfiguration and binding to the Spring Environment and other Spring programming model idioms.
 - [VAMP](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
+- [Warewolf](https://warewolf.io/) - Easily create and manage RESTful APIs as microservices.
 
 ## Runtimes
 
@@ -93,7 +94,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Orbit](http://orbit.bioware.com/) - Modern framework for JVM languages that makes it easier to build and maintain distributed and scalable online services.
 - [Service Fabric I/O](http://scalecube.io) - A microservices framework for the rapid development of distributed, resilient, reactive applications at scale.
 - [Vert.X](http://vertx.io/) - Toolkit for building reactive applications on the JVM.
-
+- [Warewolf](https://warewolf.io/) - Easily create and manage RESTful APIs as microservices.
+- 
 ## Service Toolkits
 
 ### Agnostic
@@ -418,7 +420,8 @@ Graphite, InfluxDB & OpenTSDB.
 - [Project 6](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
 - [Rancher](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
 - [RPM Maven](http://mojo.codehaus.org/rpm-maven-plugin/) - Allows artifacts from one or more projects to be packaged in an RPM for distribution.
-
+- [Warewolf](https://warewolf.io/) - Easily create and manage RESTful APIs as microservices.
+- 
 ### Hosted
 
 - [AWS CodeDeploy](http://aws.amazon.com/codedeploy/) - Deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required.
@@ -432,7 +435,8 @@ of the testing and deployment process.
 - [Capsule](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
 - [Kafka Deploy](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
 - [LambdaCD](https://github.com/flosell/lambdacd) - A library to define a continuous delivery pipeline in code.
-
+- [Warewolf](https://warewolf.io/) - Easily create and manage RESTful APIs as microservices.
+- 
 ## Containers
 
 - [AWS ECS](http://aws.amazon.com/ecs/) - Easily run and manage Docker-enabled applications across a cluster of Amazon EC2 instances.
@@ -454,7 +458,7 @@ of the testing and deployment process.
 - [Slate](https://github.com/tripit/slate) - Beautiful static documentation for your API.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
 - [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
-- [Warewolf](https://warewolf.io/) - Create RESTful APIs using a very simple implimentation Microsoft Workflow Foundation.
+- [Warewolf](https://warewolf.io/) - Easily create and manage RESTful APIs as microservices.
 
 ## Standards / Recommendations
 
